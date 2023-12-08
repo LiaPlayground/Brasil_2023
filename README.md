@@ -9,9 +9,13 @@ comment: Interactive LiaScript workshop at Federal University of Amazonas
 
 [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://github.com/LiaPlayground/Brasil_2023/blob/master/README.md)
 
-# LiaScript Tutorial at Federal University of Amazonas
+# LiaScript Tutorial
 
-__8th December 2022__
+<h2> Federal University of Amazonas</h2>
+
+__8th December 2023__
+
+<div style="width: 55%; float: left">
 
 | Time          | Topic                                                                                                                                                                           |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -21,14 +25,21 @@ __8th December 2022__
 | 10:45 - 11:00 | [Best practice at TU Bergakademie Freiberg](https://liascript.github.io/course/?https://raw.githubusercontent.com/LiaPlayground/Brasil_2023/main/best_practice.md#1)            |
 | 11:00 - 12:00 | [Implementation of Remote-Labs integrated in LiaScript](https://liascript.github.io/course/?https://raw.githubusercontent.com/LiaPlayground/Brasil_2023/main/remote_labs.md#1)  |
 
-All materials of this course are available on Github:
+</div>
 
-https://github.com/LiaPlayground/Brasil_2023
+![partner_map](https://github.com/LiaPlayground/LiaScript-User-Symposium-2023/blob/main/pic/philosophers.png?raw=true "")<!-- style="width: 45%; float: right" -->
 
-Open the tutorial part in the LiaScript Live Editor directly:
+<div style="width: 100%;">
 
-[Tutorial in Live Editor](https://liascript.github.io/LiveEditor/?/show/file/https://raw.githubusercontent.com/LiaPlayground/Brasil_2023/main/basics_of_liascript.md)
+> All materials of this course are available on Github:
+>
+> https://github.com/LiaPlayground/Brasil_2023
+>
+> Open the tutorial part in the LiaScript Live Editor directly:
+>
+> [Tutorial in Live Editor](https://liascript.github.io/LiveEditor/?/show/file/https://raw.githubusercontent.com/LiaPlayground/Brasil_2023/main/basics_of_liascript.md)
 
+</div>
 
 ## Presenters
 
