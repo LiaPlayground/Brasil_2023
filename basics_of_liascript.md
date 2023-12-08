@@ -7,13 +7,12 @@ comment: Interactive LiaScript workshop
 
 -->
 
-
-
 # Tutorial on Alphabet-Soup
 
 __This is a basic course, it provides an introduction to the LiaScript syntax and its basic features. It is intended for beginners and can be used as a template for your own courses.__
 
-[OEB23 Presentation in the Live Editor](https://liascript.github.io/LiveEditor/?/show/file/https://raw.githubusercontent.com/LiaPlayground/OEB-2023/main/README.md)
+[Tutorial in Live Editor](https://liascript.github.io/LiveEditor/?/show/file/https://raw.githubusercontent.com/LiaPlayground/Brasil_2023/main/basics_of_liascript.md)
+
 
 A. Basics
 

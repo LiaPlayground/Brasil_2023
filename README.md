@@ -1,9 +1,9 @@
 <!--
 author:  André Dietrich; Sebastian Zug
 
-mode:    Textbook
+mode:     Presentation
 
-comment: Interactive LiaScript workshop at the OEB 2023 in Berlin.
+comment: Interactive LiaScript workshop at Federal University of Amazonas
 
 -->
 
@@ -13,21 +13,21 @@ comment: Interactive LiaScript workshop at the OEB 2023 in Berlin.
 
 __8th December 2022__
 
-| Time          | Topic                                                 |
-| ------------- | ----------------------------------------------------- |
-| 09:00 - 09:20 | Concepts and visions                                  |
-| 09:20 -       | Basics of Markdown and extentions in LiaScript        |
-| 10:30 - 10:45 | _Short break_                                         |
-| 10:45 - 11:00 | Best practics at TU Bergakademie Freiberg             |
-| 11:00 - 12:00 | Implementation of Remote-Labs integrated in LiaScript |
+| Time          | Topic                                                                                                                                                                           |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 09:00 - 09:20 | [Concepts and visions](https://liascript.github.io/course/?https://raw.githubusercontent.com/LiaPlayground/Brasil_2023/main/concepts_and_visions.md#1)                          |
+| 09:20 -       | [Basics of Markdown and extentions in LiaScript](https://liascript.github.io/course/?https://raw.githubusercontent.com/LiaPlayground/Brasil_2023/main/basics_of_liascript.md#1) |
+| 10:30 - 10:45 | _Short break_                                                                                                                                                                   |
+| 10:45 - 11:00 | [Best practice at TU Bergakademie Freiberg](https://liascript.github.io/course/?https://raw.githubusercontent.com/LiaPlayground/Brasil_2023/main/best_practice.md#1)            |
+| 11:00 - 12:00 | Implementation of Remote-Labs integrated in LiaScript                                                                                                                           |
 
 All materials of this course are available on Github:
 
 https://github.com/LiaPlayground/Brasil_2023
 
-Open the presentation in the LiaScript Live Editor:
+Open the tutorial part in the LiaScript Live Editor directly:
 
-https://liascript.github.io/LiaScript/?https://raw.githubusercontent.com/LiaPlayground/Brasil_2023/main/README.md
+[Tutorial in Live Editor](https://liascript.github.io/LiveEditor/?/show/file/https://raw.githubusercontent.com/LiaPlayground/Brasil_2023/main/basics_of_liascript.md)
 
 
 ## Presenters

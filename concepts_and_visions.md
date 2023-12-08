@@ -16,11 +16,12 @@ comment:  This course introduces LiaScript and explains the benefits of the new,
 
 logo:     ./images/logo.png
 
-import: https://github.com/liascript/CodeRunner
-        https://raw.githubusercontent.com/liaTemplates/processingjs/master/README.md
+import:   https://raw.githubusercontent.com/liaTemplates/processingjs/master/README.md
 
 translation: Deutsch  translations/German.md
 -->
+
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://github.com/LiaPlayground/Brasil_2023/blob/master/concepts_and_visions.md)
 
 ## Motivation
 
