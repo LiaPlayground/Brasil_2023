@@ -14,6 +14,8 @@ comment:  This course introduces LiaScript and explains the benefits of the new,
 
 logo:     ./images/logo.png
 
+import: https://raw.githubusercontent.com/LiaScript/CodeRunner/master/README.md
+
 translation: Deutsch  translations/German.md
 -->
 
@@ -36,6 +38,7 @@ Starting in 2018 we switched the learning content of our [courses](https://githu
 
 https://github.com/TUBAF-IfI-LiaScript/VL_EAVD
 
+
 ### Dissemination
 
 + github
@@ -46,6 +49,29 @@ https://github.com/TUBAF-IfI-LiaScript/VL_EAVD
 https://github.com/TUBAF-IfI-LiaScript/TUBAF-IfI-LiaScript.github.io
 
 https://tubaf-ifi-liascript.github.io/prozprog.html
+
+### Classrooms 
+
++ verbally, based on interactive slides
++ direct, in classroom mode (click on the symbol in the upper right corner)
+
+```c
+#include <stdio.h>
+
+int main (void){
+	int i = 0;
+	int max = 0;
+
+	printf("How many hellos: ");
+	scanf("%d",&max);
+
+  for(i=0; i<max; i++)
+    printf ("Hello, world %d!\n", i);
+
+	return 0;
+}
+```
+@LIA.eval(`["main.c"]`, `gcc -Wall main.c -o a.out`, `./a.out`)
 
 ### Student feedbacks 
 

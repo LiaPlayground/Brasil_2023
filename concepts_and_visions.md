@@ -128,7 +128,7 @@ Course content ...
 
 ********************************************************************************
 
-     {{4-5}}
+     {{3-4}}
 ********************************************************************************
 
 Just as an example ...
@@ -161,4 +161,7 @@ This is where the concept of LiaScript comes in and integrates
 + can be integrated into the usual LMS.
 
 {{1-2}}
-> How does it work in detail? Let's take a closer look on LiaScript in the second part of this tutorial.
+> How does it work in detail? Let's take a closer look on LiaScript in the second part of this tutorial:
+
+{{1-2}}
+[Basics of Markdown and extentions in LiaScript](https://liascript.github.io/course/?https://raw.githubusercontent.com/LiaPlayground/Brasil_2023/main/basics_of_liascript.md#1)

@@ -178,7 +178,7 @@ import:
 -->
 ```
 
-> Explore some of the availibe extensions at:
+> Explore some of the available extensions at:
 >
 > https://github.com/topics/liascript-template
 
